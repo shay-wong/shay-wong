@@ -1,19 +1,13 @@
 ## Hi there 👋
 
-<!--
-**shay-wong/shay-wong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on: Front-end development, Objective-C, Swift, Flutter, and Dart.
+- 🌱 I’m currently learning: Vue.js, Android, Flutter, and HarmonyOS.
+- 👯 I’m looking to collaborate on: Any project.
+- 🤔 I’m looking for help with: Nothing at the moment.
+- 💬 Ask me about: Anythings.
+- 📫 How to reach me: shay.wong@qq.com, shay.wong.sy@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am passionate about delving into code.
 
 [![Shay's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shay-wong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
