@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 [![Shay's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shay-wong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Shay's github stats](https://github-readme-stats.vercel.app/api?username=shay-wong&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+### Visits
+
+![](http://profile-counter.glitch.me/shay-wong/count.svg)
