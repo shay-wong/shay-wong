@@ -7,7 +7,7 @@
 - 💬 Ask me about: Anythings.
 - 📫 How to reach me: shay.wong@qq.com, shay.wong.sy@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am passionate about delving into code.
+- ⚡ Fun fact: I am passionate about delving into code and exploring interesting technologies.
 
 [![Shay's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shay-wong&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
